@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 lập trinh viên B sửa file B
 lập trình viên B nè oke
+=======
+lập trinh viên A đã sửa file B
+>>>>>>> 0c52b56b5bde0a5d81d477d6a176e1bea47a4227
+
+da sua xong oke
