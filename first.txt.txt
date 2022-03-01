@@ -1,0 +1,1 @@
+Lap trinh vien B moi vao khong clone ma git init
